@@ -117,7 +117,7 @@ The guide to setup a GitHub repository can be ignored.
 
     ```bash
     cd ~
-    git clone https://github.com/LaiYanKai/ee3305
+    git clone https://github.com/NUS-HcRL/ee3305
     ```
 
 4. There should now be a folder called `ee3305` in the home directory. Avoid renaming it or any files below to `me3243` as doing so may break the development process. Let this `ee3305` directory be the **workspace** directory.
