@@ -27,14 +27,14 @@ The project is coded using ROS2 Jazzy, and either Python or C++ can be used.
     </tr>
     <tr>
         <td><b>Deadline</b></td>
-        <td colspan="2">All submittables by 9 Nov 2025 (W12 Sun) 23:59h.</td>
+        <td colspan="2">All submittables by 2 Nov 2026 (W12 Mon) 23:59h.</td>
     </tr>
     <tr>
         <td rowspan="3"><b>Submittables</b></td>
         <td><b>P2C</b></td>
         <td>
             <ul>
-                <li>30% of the project score.</li>
+                <li>15% of the project score.</li>
                 <li><code>.zip</code> file of the workspace directory <b>containing only</b> the <code>src</code> directory. To avoid penalties, the top level of the zip file contains only the <code>src</code> directory, and the zip file should not exceed 1MB.</li>
                 <li>The code should be executable and buildable without errors.</li>
             </ul>
@@ -44,7 +44,7 @@ The project is coded using ROS2 Jazzy, and either Python or C++ can be used.
         <td><b>P2P</b></td>
         <td>
             <ul>
-                <li>30% of the project score.</li>
+                <li>15% of the project score.</li>
                 <li><code>.pdf</code> A3 poster succinctly describing any outstanding improvements or analysis in the project.</li>
                 <li>The poster is presented online during the allocated presentation slot.</li>
                 <li>During the presentation, members must describe personal contributions including improvements and analysis when asked to do so by assessors.</li> 
@@ -57,9 +57,9 @@ The project is coded using ROS2 Jazzy, and either Python or C++ can be used.
         <td><b>P2R</b></td>
         <td>
             <ul>
-                <li>40% of the project score.</li>
+                <li>20% of the project score.</li>
                 <li><code>.pdf</code> report focusing on the tuning methodologies, observations, explanations, and suggestions. Improvements should also be described.</li>
-                <li>About 10 to 15 pages excluding front and back matter. There are no hard constraints on the number of pages.</li>
+                <li>About 10 pages excluding front and back matter. There are no hard constraints on the number of pages.</li>
                 <li>The report will be checked for plagiarism using Turnitin.</li>
             </ul>
         </td>
