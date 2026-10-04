@@ -1,7 +1,7 @@
 ***EE3305/ME3243 Robotic System Design***
 ---
 
-**&copy; Lai Yan Kai, National University of Singapore**
+**&copy; Lai Yan Kai & Fan Shi, National University of Singapore**
 
 [01_About.md](docs/01_About.md)
 
